@@ -7,7 +7,5 @@ O Mini_Arcade é um console pensado para ser utilizado em bares e barbearias, pr
 Aqui estão prototipos das telas que o usuário terá acesso.
 
 ![](Telas_Prototipo/TP1.jpg)
-
 ![](Telas_Prototipo/TP2.jpg)
-
 ![](Telas_Prototipo/TP3.jpg)
