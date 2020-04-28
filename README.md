@@ -11,7 +11,7 @@ Aqui estão prototipos das telas que o usuário terá acesso.
 # Tela de gameplay
 ![](Telas_Prototipo/TP2.jpg)
 # Tela de cadastro do usuário
-![](Telas_Prototipo/TP4.jpg)
-![](Telas_Prototipo/TP5.jpg)
+![](Telas_Prototipo/TP4.png)
+![](Telas_Prototipo/TP5.png)
 # Tela de highscore do sistema
 ![](Telas_Prototipo/TP3.jpg)
