@@ -17,5 +17,11 @@ Aqui estão prototipos das telas que o usuário terá acesso.
 ![](Telas_Prototipo/TP3.jpg)
 
 # Colaboradores
-André Akira Prazeres Yamase \n
-@anded-acdc@hotmail.com \n
+André Akira Prazeres Yamase\
+@anded-acdc@hotmail.com\
+\
+Brian Bomfim Amaral\
+brianamaral918@gmail.com\
+\
+Thiago Alonso Teixeira do Nascimento Cabral\
+thiagoalonsoc27@gmail.com\
