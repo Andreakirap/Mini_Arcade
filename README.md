@@ -15,3 +15,7 @@ Aqui estão prototipos das telas que o usuário terá acesso.
 ![](Telas_Prototipo/TP5.png)
 # Tela de highscore do sistema
 ![](Telas_Prototipo/TP3.jpg)
+
+# Colaboradores
+André Akira Prazeres Yamase \n
+@anded-acdc@hotmail.com \n
