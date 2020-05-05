@@ -18,10 +18,10 @@ Aqui estão prototipos das telas que o usuário terá acesso.
 
 # Colaboradores
 André Akira Prazeres Yamase\
-@anded-acdc@hotmail.com\
+anded-acdc@hotmail.com\
 \
 Brian Bomfim Amaral\
 brianamaral918@gmail.com\
 \
 Thiago Alonso Teixeira do Nascimento Cabral\
-thiagoalonsoc27@gmail.com\
+thiagoalonsoc27@gmail.com
