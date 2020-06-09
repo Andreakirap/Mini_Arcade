@@ -1,9 +1,13 @@
 # coding: utf-8
 from random import choice, randint
+
 from math import ceil
 import pygame
 import os
 import qrcode
+from firebase import firebase
+
+firebase = firebase.FirebaseApplication("https://mini-arcade-69906.firebaseio.com", None)
 
 
 # Variáveis globais que são necessárias em diversos momentos
@@ -419,8 +423,8 @@ class SpaceInvaders():
         self.font20 = self.create_font(20)
 
         text1 = self.font50.render("Score final: %d" % self.score, True, GOLD)
-        print(self.score)
-        print("a")
+        pontos = {'pontos':self.score}
+        firebase.post("Pontos",pontos)
         text2 = self.font20.render("Escaneie o codigo para registrar score", True, WHITE)
         text3 = self.font20.render("Aperte qualquer botao para reiniciar", True, WHITE)
 
