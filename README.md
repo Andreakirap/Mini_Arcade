@@ -8,7 +8,7 @@ O Mini_Arcade é um console pensado para ser utilizado em bares e barbearias, pr
 
 # Controle do Mini_Arcade
 
-![](https://media.giphy.com/media/RfSDYqA3ivIshanHvW/giphy.gif)
+![](https://media.giphy.com/media/RfSDYqA3ivIshanHvW/giphy-downsized-large.gif)
 
 # Colaboradores
 André Akira Prazeres Yamase\
